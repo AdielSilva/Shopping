@@ -7,8 +7,8 @@ namespace Shopping.Application
     public class EventApplication
     {
         // The right thing here is an interface for this repository and make dependcy injection on IEventRepository but this shows well my intention
-        CampaignRepository _repository; 
-        public EventApplication(CampaignRepository repository)
+        EventRepository _repository; 
+        public EventApplication(EventRepository repository)
         {
             _repository = repository;
         }

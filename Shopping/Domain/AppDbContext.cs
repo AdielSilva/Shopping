@@ -10,6 +10,7 @@ namespace Shopping.Domain
         }
 
         public DbSet<Event> Events { get; set; }
+        public DbSet<Campaing> Campaigns { get; set; }
     }
 
 

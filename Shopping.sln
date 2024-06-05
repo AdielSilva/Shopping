@@ -16,6 +16,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task 1", "Task 1", "{6B922E91-BC86-4E68-A6D3-E1A4903E70E5}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Documents\MacroArchitecture.pdf = ..\..\..\Documents\MacroArchitecture.pdf
+		..\..\..\Documents\System Architecture & Microservices.pdf = ..\..\..\Documents\System Architecture & Microservices.pdf
 	EndProjectSection
 EndProject
 Global

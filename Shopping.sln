@@ -5,20 +5,6 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{33A4BDFF-034F-48B5-8D29-4484F0F7D733}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AEC08CCE-2EC1-45BA-BEDD-8F0F52101C7D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task 2", "Task 2", "{A890860A-AE11-4790-89AC-E43DB40621BB}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Documents\ApiEndpoints.pdf = ..\..\..\Documents\ApiEndpoints.pdf
-		..\..\..\Documents\ShoppingCampaing.pdf = ..\..\..\Documents\ShoppingCampaing.pdf
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task 1", "Task 1", "{6B922E91-BC86-4E68-A6D3-E1A4903E70E5}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Documents\MacroArchitecture.pdf = ..\..\..\Documents\MacroArchitecture.pdf
-		..\..\..\Documents\System Architecture & Microservices.pdf = ..\..\..\Documents\System Architecture & Microservices.pdf
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,10 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{A890860A-AE11-4790-89AC-E43DB40621BB} = {AEC08CCE-2EC1-45BA-BEDD-8F0F52101C7D}
-		{6B922E91-BC86-4E68-A6D3-E1A4903E70E5} = {AEC08CCE-2EC1-45BA-BEDD-8F0F52101C7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {928B536B-C582-4AAE-ACC5-8B4B2016A567}
